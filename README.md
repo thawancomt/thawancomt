@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flask, JavaScript**
 
-- 🤝 I’m looking for help with **GTFS-Carris**
+- 🤝 I’m looking for help with **Manager**
 
 
 
